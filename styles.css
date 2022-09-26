@@ -1,0 +1,9 @@
+body{background-color: black;}
+img{position:fixed; 
+    left:450px; 
+    top:100px; 
+    background-color: black;
+    width: 5in; height: 5in; }
+audio{position:fixed; 
+    left:500px; 
+    top:500px;}
